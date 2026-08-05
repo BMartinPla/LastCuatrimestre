@@ -22,5 +22,21 @@ namespace Singleton
             return _instance;
         }
 
+        public void algunaLogicaDeNegocio()
+        {
+            // Por ejemplo mostrar algo
+            if (_instance == null)
+            {
+                Console.WriteLine("Aún no se ha creado el Singleton");
+            } else
+            {
+                // GetHasCode() en C# es un método que devuelve un valor numerico entero
+                // que representa los datos de un objeto, utilizado para buscar e identificar
+                // objetos rápidamente.
+
+                Console.WriteLine($"Ya se ha creado el Singleton: {_instance.GetHashCode()}");
+            }
+        }
+
     }
 }

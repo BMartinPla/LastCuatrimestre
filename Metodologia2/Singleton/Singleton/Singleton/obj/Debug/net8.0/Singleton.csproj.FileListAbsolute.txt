@@ -1,0 +1,15 @@
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.exe
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.deps.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\bin\Debug\net8.0\Singleton.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.sourcelink.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\Singleton\Singleton\obj\Debug\net8.0\ref\Singleton.dll
