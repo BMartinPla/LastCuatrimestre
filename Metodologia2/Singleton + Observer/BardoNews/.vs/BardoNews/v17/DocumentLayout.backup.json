@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Singleton\\BardoNews\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2748898D-D6F6-44DF-BD95-4E32A7A40B5D}|BardoNews\\BardoNews.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\singleton\\bardonews\\bardonews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748898D-D6F6-44DF-BD95-4E32A7A40B5D}|BardoNews\\BardoNews.csproj|solutionrelative:bardonews\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748898D-D6F6-44DF-BD95-4E32A7A40B5D}|BardoNews\\BardoNews.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\singleton\\bardonews\\bardonews\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748898D-D6F6-44DF-BD95-4E32A7A40B5D}|BardoNews\\BardoNews.csproj|solutionrelative:bardonews\\agencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2748898D-D6F6-44DF-BD95-4E32A7A40B5D}|BardoNews\\BardoNews.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\singleton\\bardonews\\bardonews\\noticia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2748898D-D6F6-44DF-BD95-4E32A7A40B5D}|BardoNews\\BardoNews.csproj|solutionrelative:bardonews\\noticia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Agencia.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Singleton\\BardoNews\\BardoNews\\Agencia.cs",
+              "RelativeDocumentMoniker": "BardoNews\\Agencia.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Singleton\\BardoNews\\BardoNews\\Agencia.cs",
+              "RelativeToolTip": "BardoNews\\Agencia.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAmwDkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T21:28:13.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Noticia.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Singleton\\BardoNews\\BardoNews\\Noticia.cs",
+              "RelativeDocumentMoniker": "BardoNews\\Noticia.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Singleton\\BardoNews\\BardoNews\\Noticia.cs",
+              "RelativeToolTip": "BardoNews\\Noticia.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwDAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T21:16:00.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Singleton\\BardoNews\\BardoNews\\Program.cs",
+              "RelativeDocumentMoniker": "BardoNews\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Singleton\\BardoNews\\BardoNews\\Program.cs",
+              "RelativeToolTip": "BardoNews\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-07T21:14:20.798Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

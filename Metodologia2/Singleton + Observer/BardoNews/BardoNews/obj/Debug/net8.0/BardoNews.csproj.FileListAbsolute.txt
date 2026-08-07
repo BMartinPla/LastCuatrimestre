@@ -1,0 +1,30 @@
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.exe
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.deps.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.runtimeconfig.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.AssemblyInfoInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.AssemblyInfo.cs
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.sourcelink.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\refint\BardoNews.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.genruntimeconfig.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton\BardoNews\BardoNews\obj\Debug\net8.0\ref\BardoNews.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.exe
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.deps.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.runtimeconfig.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\bin\Debug\net8.0\BardoNews.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.AssemblyInfoInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.AssemblyInfo.cs
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.sourcelink.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\refint\BardoNews.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\BardoNews.genruntimeconfig.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Singleton + Observer\BardoNews\BardoNews\obj\Debug\net8.0\ref\BardoNews.dll
