@@ -6,13 +6,15 @@ using System.Threading.Tasks;
 
 namespace BardoNews
 {
-    internal class Agencia
+    public class Agencia : IPublicador 
     {
         String Nombre {  get; set; }
 
         DateOnly FInicio { get; set; }
 
         static Agencia instancia = null;
+
+        public List <ISuscriptor> Suscriptores = new List<ISuscriptor> ();
 
         private Agencia()
         {
@@ -56,6 +58,24 @@ namespace BardoNews
             return $"#---------------------" +
                 $"\n{this}\nInforma: " +
                 $"\n{noticia}";
+        }
+
+        public void RegistrarSuscriptor(ISuscriptor suscriptor)
+        {
+            Suscriptores.Add(suscriptor);
+        }
+
+        public void RemoverSuscriptor(ISuscriptor suscriptor)
+        {
+            Suscriptores.Remove(suscriptor);
+        }
+
+        public void NotificarSuscriptores(Noticia noticia)
+        {
+            foreach(ISuscriptor s in Suscriptores)
+            {
+                s.Actualizar(noticia);
+            }
         }
 
     }

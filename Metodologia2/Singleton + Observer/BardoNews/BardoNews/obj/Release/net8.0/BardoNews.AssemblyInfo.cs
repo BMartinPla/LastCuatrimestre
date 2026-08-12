@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BardoNews")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b17743afe2b59a3b32f1ee6ad06537ab624b28ff")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+576b3764e830c0746509bcb8df3d4664626ad455")]
 [assembly: System.Reflection.AssemblyProductAttribute("BardoNews")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BardoNews")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

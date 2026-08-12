@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BardoNews
 {
-    internal class Noticia
+    public class Noticia
     {
 
         DateTime Fecha {  get; set; }
