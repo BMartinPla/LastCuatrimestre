@@ -1,15 +1,68 @@
 
 
+.contenedor {
+    background-color: violet;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    justify-content: center; 
+    align-items: center; 
+}
+
 .card {
-    width: 90%;
+    padding: 10px;
+    width: 650px;
     background-color: darkblue;
     color: white;
-    margin: 10px;
     border-radius: 15px;
     transition: 0.5s ease;
+    margin: 10px auto;
 }
 
 .card:hover {
     background-color: red;
-    transform: scale(1.2)
+    transform: scale(1.1)
+}
+
+.caja {
+    padding: 5px;
+    width: 200px;
+    background-color: magenta;
+    color: white;
+    border-radius: 15px;
+    transition: 0.5s ease;
+    margin: 10px auto;
+}
+
+.caja:hover {
+    background-color: deepskyblue;
+    transform: scale(1.05)
+}
+
+.btn {
+    width: 75px;
+    height: 75px;
+    border: none;
+    margin: 2%;
+    border-radius: 5px;
+    font-size: xx-large;
+}
+
+.btn:hover {
+    background-color: darkgray;
+    transform: scale(1.1);
+    border-radius: 6px;
+}
+
+.nmr {
+    font-size: xx-large;
+}
+
+.text_negro {
+    color: black;
+}
+
+.text_rojo {
+    color: red;
 }
