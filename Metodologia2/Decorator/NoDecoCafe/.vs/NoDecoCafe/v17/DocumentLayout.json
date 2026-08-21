@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\decorator\\nodecocafe\\nodecocafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|solutionrelative:nodecocafe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\decorator\\nodecocafe\\nodecocafe\\brasilero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|solutionrelative:nodecocafe\\brasilero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\decorator\\nodecocafe\\nodecocafe\\descafeinado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|solutionrelative:nodecocafe\\descafeinado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\decorator\\nodecocafe\\nodecocafe\\expreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|solutionrelative:nodecocafe\\expreso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\decorator\\nodecocafe\\nodecocafe\\colombiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|solutionrelative:nodecocafe\\colombiano.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\decorator\\nodecocafe\\nodecocafe\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{933F67E2-BF71-4958-9FCD-00CFF57B9ED6}|NoDecoCafe\\NoDecoCafe.csproj|solutionrelative:nodecocafe\\cafe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cafe.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Cafe.cs",
+              "RelativeDocumentMoniker": "NoDecoCafe\\Cafe.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Cafe.cs",
+              "RelativeToolTip": "NoDecoCafe\\Cafe.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:23:40.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Colombiano.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Colombiano.cs",
+              "RelativeDocumentMoniker": "NoDecoCafe\\Colombiano.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Colombiano.cs",
+              "RelativeToolTip": "NoDecoCafe\\Colombiano.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:25:29.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Brasilero.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Brasilero.cs",
+              "RelativeDocumentMoniker": "NoDecoCafe\\Brasilero.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Brasilero.cs",
+              "RelativeToolTip": "NoDecoCafe\\Brasilero.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:25:18.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Expreso.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Expreso.cs",
+              "RelativeDocumentMoniker": "NoDecoCafe\\Expreso.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Expreso.cs",
+              "RelativeToolTip": "NoDecoCafe\\Expreso.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:25:03.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Descafeinado.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Descafeinado.cs",
+              "RelativeDocumentMoniker": "NoDecoCafe\\Descafeinado.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Descafeinado.cs",
+              "RelativeToolTip": "NoDecoCafe\\Descafeinado.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAmwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:25:44.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Program.cs",
+              "RelativeDocumentMoniker": "NoDecoCafe\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Decorator\\NoDecoCafe\\NoDecoCafe\\Program.cs",
+              "RelativeToolTip": "NoDecoCafe\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-21T21:17:34.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
