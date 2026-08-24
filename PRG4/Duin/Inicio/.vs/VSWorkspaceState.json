@@ -4,8 +4,9 @@
     "\\Inicio",
     "\\Inicio\\public",
     "\\Inicio\\src",
-    "\\Inicio\\src\\components"
+    "\\Inicio\\src\\components",
+    "\\Inicio\\src\\data"
   ],
-  "SelectedNode": "\\Inicio\\src\\components\\IngresoTexto.jsx",
+  "SelectedNode": "\\Inicio\\src\\components\\PersonasCard.jsx",
   "PreviewInSolutionExplorer": false
 }
