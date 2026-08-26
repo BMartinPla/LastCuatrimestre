@@ -1,0 +1,29 @@
+/home/juan/desa/cs/NoDecoCondimentado/bin/Debug/net8.0/NoDecoCondimentado
+/home/juan/desa/cs/NoDecoCondimentado/bin/Debug/net8.0/NoDecoCondimentado.deps.json
+/home/juan/desa/cs/NoDecoCondimentado/bin/Debug/net8.0/NoDecoCondimentado.runtimeconfig.json
+/home/juan/desa/cs/NoDecoCondimentado/bin/Debug/net8.0/NoDecoCondimentado.dll
+/home/juan/desa/cs/NoDecoCondimentado/bin/Debug/net8.0/NoDecoCondimentado.pdb
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/NoDecoCondimentado.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/NoDecoCondimentado.AssemblyInfoInputs.cache
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/NoDecoCondimentado.AssemblyInfo.cs
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/NoDecoCondimentado.csproj.CoreCompileInputs.cache
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/NoDecoCondimentado.dll
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/refint/NoDecoCondimentado.dll
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/NoDecoCondimentado.pdb
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/NoDecoCondimentado.genruntimeconfig.cache
+/home/juan/desa/cs/NoDecoCondimentado/obj/Debug/net8.0/ref/NoDecoCondimentado.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\bin\Debug\net8.0\NoDecoCondimentado.exe
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\bin\Debug\net8.0\NoDecoCondimentado.deps.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\bin\Debug\net8.0\NoDecoCondimentado.runtimeconfig.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\bin\Debug\net8.0\NoDecoCondimentado.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\bin\Debug\net8.0\NoDecoCondimentado.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\NoDecoCondimentado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\NoDecoCondimentado.AssemblyInfoInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\NoDecoCondimentado.AssemblyInfo.cs
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\NoDecoCondimentado.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\NoDecoCondimentado.sourcelink.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\NoDecoCondimentado.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\refint\NoDecoCondimentado.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\NoDecoCondimentado.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\NoDecoCondimentado.genruntimeconfig.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\NoDecoCondimentado\obj\Debug\net8.0\ref\NoDecoCondimentado.dll

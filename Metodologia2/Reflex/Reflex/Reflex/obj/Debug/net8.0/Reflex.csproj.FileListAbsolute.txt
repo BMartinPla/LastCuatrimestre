@@ -1,0 +1,15 @@
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\Reflex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\Reflex.AssemblyInfoInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\Reflex.AssemblyInfo.cs
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\Reflex.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\Reflex.sourcelink.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\bin\Debug\net8.0\Reflex.exe
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\bin\Debug\net8.0\Reflex.deps.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\bin\Debug\net8.0\Reflex.runtimeconfig.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\bin\Debug\net8.0\Reflex.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\bin\Debug\net8.0\Reflex.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\Reflex.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\refint\Reflex.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\Reflex.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\Reflex.genruntimeconfig.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Reflex\Reflex\Reflex\obj\Debug\net8.0\ref\Reflex.dll

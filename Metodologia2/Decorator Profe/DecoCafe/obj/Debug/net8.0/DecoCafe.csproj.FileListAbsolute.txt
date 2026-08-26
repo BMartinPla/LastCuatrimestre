@@ -1,0 +1,29 @@
+/home/juan/desa/cs/DecoCafe/bin/Debug/net8.0/DecoCafe
+/home/juan/desa/cs/DecoCafe/bin/Debug/net8.0/DecoCafe.deps.json
+/home/juan/desa/cs/DecoCafe/bin/Debug/net8.0/DecoCafe.runtimeconfig.json
+/home/juan/desa/cs/DecoCafe/bin/Debug/net8.0/DecoCafe.dll
+/home/juan/desa/cs/DecoCafe/bin/Debug/net8.0/DecoCafe.pdb
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/DecoCafe.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/DecoCafe.AssemblyInfoInputs.cache
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/DecoCafe.AssemblyInfo.cs
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/DecoCafe.csproj.CoreCompileInputs.cache
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/DecoCafe.dll
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/refint/DecoCafe.dll
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/DecoCafe.pdb
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/DecoCafe.genruntimeconfig.cache
+/home/juan/desa/cs/DecoCafe/obj/Debug/net8.0/ref/DecoCafe.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\bin\Debug\net8.0\DecoCafe.exe
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\bin\Debug\net8.0\DecoCafe.deps.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\bin\Debug\net8.0\DecoCafe.runtimeconfig.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\bin\Debug\net8.0\DecoCafe.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\bin\Debug\net8.0\DecoCafe.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\DecoCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\DecoCafe.AssemblyInfoInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\DecoCafe.AssemblyInfo.cs
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\DecoCafe.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\DecoCafe.sourcelink.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\DecoCafe.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\refint\DecoCafe.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\DecoCafe.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\DecoCafe.genruntimeconfig.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Decorator Profe\DecoCafe\obj\Debug\net8.0\ref\DecoCafe.dll
