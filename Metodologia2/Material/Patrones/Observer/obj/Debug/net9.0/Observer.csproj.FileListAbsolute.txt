@@ -1,0 +1,14 @@
+/home/juan/dev/cs/Observer/bin/Debug/net9.0/Observer
+/home/juan/dev/cs/Observer/bin/Debug/net9.0/Observer.deps.json
+/home/juan/dev/cs/Observer/bin/Debug/net9.0/Observer.runtimeconfig.json
+/home/juan/dev/cs/Observer/bin/Debug/net9.0/Observer.dll
+/home/juan/dev/cs/Observer/bin/Debug/net9.0/Observer.pdb
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/Observer.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/Observer.AssemblyInfoInputs.cache
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/Observer.AssemblyInfo.cs
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/Observer.csproj.CoreCompileInputs.cache
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/Observer.dll
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/refint/Observer.dll
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/Observer.pdb
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/Observer.genruntimeconfig.cache
+/home/juan/dev/cs/Observer/obj/Debug/net9.0/ref/Observer.dll

@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="LibPersona">
+      <HintPath>C:\Users\jarce\Desktop\LibPersona\bin\Debug\net8.0\LibPersona.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

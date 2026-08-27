@@ -1,0 +1,14 @@
+/home/juan/desa/cs/Singleton/bin/Debug/net8.0/Singleton
+/home/juan/desa/cs/Singleton/bin/Debug/net8.0/Singleton.deps.json
+/home/juan/desa/cs/Singleton/bin/Debug/net8.0/Singleton.runtimeconfig.json
+/home/juan/desa/cs/Singleton/bin/Debug/net8.0/Singleton.dll
+/home/juan/desa/cs/Singleton/bin/Debug/net8.0/Singleton.pdb
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfoInputs.cache
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/Singleton.AssemblyInfo.cs
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/Singleton.csproj.CoreCompileInputs.cache
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/Singleton.dll
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/refint/Singleton.dll
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/Singleton.pdb
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/Singleton.genruntimeconfig.cache
+/home/juan/desa/cs/Singleton/obj/Debug/net8.0/ref/Singleton.dll

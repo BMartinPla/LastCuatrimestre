@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "patos", "patos.csproj", "{3981A175-582C-922D-9D86-F13D0B080925}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3981A175-582C-922D-9D86-F13D0B080925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3981A175-582C-922D-9D86-F13D0B080925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3981A175-582C-922D-9D86-F13D0B080925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3981A175-582C-922D-9D86-F13D0B080925}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {436CE84B-0A76-41F5-9D8A-FE0E1F693699}
+	EndGlobalSection
+EndGlobal

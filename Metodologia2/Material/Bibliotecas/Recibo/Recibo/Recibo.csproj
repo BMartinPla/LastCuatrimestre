@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+<ItemGroup>
+  <Reference Include="MyCustomLibrary">
+    <HintPath>../LibSueldos/bin/Debug/net8.0/LibSueldos.dll</HintPath>
+  </Reference>
+  <Reference Include="MyCustomLibrary">
+    <HintPath>../LibPersona/bin/Debug/net8.0/LibPersona.dll</HintPath>
+  </Reference>
+</ItemGroup>
+</Project>

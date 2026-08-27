@@ -1,0 +1,86 @@
+Persona: 
+    {
+        Nombre: Juan, 
+        Apellido: Arce, 
+        Tipo Documento: {
+            Id: 1, 
+            Nombre: DNI, 
+            Pais: {
+                Id: 1, 
+                Nombre: Argentina
+            }
+        }, 
+        Nro Documento:13798792, 
+        Genero: {
+            Id: 1, 
+            Nombre: Masculino
+        }, 
+        Estado Civil: {
+            Id: 1, 
+            Nombre: Casado
+        }, 
+        F.Nacto: 10/17/1959, 
+        Contactos: [
+            Contacto: {
+                Id: 1, 
+                Tipo Contacto: {
+                    Id: 1, 
+                    Nombre: Celular
+                }, 
+                Contacto: 3364400985
+            }  ,
+            Contacto: {
+                Id: 2, 
+                Tipo Contacto: {
+                    Id: 3, 
+                    Nombre: Email
+                }, 
+                Contacto: jarce@frsn.utn.edu.ar} 
+        ],
+        Domicilios: [
+            Domicilio: {
+                Id: 1, 
+                Tipo Domicilio: {
+                    Id: 1, 
+                    Nombre: Particular
+                }, 
+                Direccion: Pellegrini 672, 
+                Localidad: {
+                    Id: 1, 
+                    Nombre: San Nicolas, 
+                    Provincia: {
+                        Id: 1,
+                        Nombre: Buenos Aires, 
+                        Pais: {
+                            Id: 1, 
+                            Nombre: 
+                            Argentina
+                        }
+                    }
+                }, 
+                C.P: 2900
+            } ,
+            Domicilio: {
+                Id: 2, 
+                Tipo Domicilio: {
+                    Id: 2, 
+                    Nombre: Comercial
+                }, 
+                Direccion: Brown 123, 
+                Localidad: {
+                    Id: 1, 
+                    Nombre: San Nicolas, 
+                    Provincia: {
+                        Id: 1, 
+                        Nombre: Buenos Aires, 
+                        Pais: {
+                            Id: 1, 
+                            Nombre: Argentina
+                        }
+                    }
+                }, 
+                C.P: 2900
+            }
+        ]
+    }
+}

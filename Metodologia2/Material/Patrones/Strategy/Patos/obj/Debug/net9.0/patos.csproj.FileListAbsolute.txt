@@ -1,0 +1,14 @@
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/bin/Debug/net9.0/patos
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/bin/Debug/net9.0/patos.deps.json
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/bin/Debug/net9.0/patos.runtimeconfig.json
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/bin/Debug/net9.0/patos.dll
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/bin/Debug/net9.0/patos.pdb
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/patos.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/patos.AssemblyInfoInputs.cache
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/patos.AssemblyInfo.cs
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/patos.csproj.CoreCompileInputs.cache
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/patos.dll
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/refint/patos.dll
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/patos.pdb
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/patos.genruntimeconfig.cache
+/home/juan/Desktop/UTN2026/Metodologia/cs/patos/obj/Debug/net9.0/ref/patos.dll

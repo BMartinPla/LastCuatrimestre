@@ -1,0 +1,14 @@
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/Strategy.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfoInputs.cache
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/Strategy.AssemblyInfo.cs
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/Strategy.csproj.CoreCompileInputs.cache
+/home/juan/desa/CS/Strategy/bin/Debug/net8.0/Strategy
+/home/juan/desa/CS/Strategy/bin/Debug/net8.0/Strategy.deps.json
+/home/juan/desa/CS/Strategy/bin/Debug/net8.0/Strategy.runtimeconfig.json
+/home/juan/desa/CS/Strategy/bin/Debug/net8.0/Strategy.dll
+/home/juan/desa/CS/Strategy/bin/Debug/net8.0/Strategy.pdb
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/Strategy.dll
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/refint/Strategy.dll
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/Strategy.pdb
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/Strategy.genruntimeconfig.cache
+/home/juan/desa/CS/Strategy/obj/Debug/net8.0/ref/Strategy.dll

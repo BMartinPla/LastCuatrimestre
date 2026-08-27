@@ -1,0 +1,189 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/juan/desa/TestLib/TestLib.csproj": {}
+  },
+  "projects": {
+    "/home/juan/desa/LibPersona/LibPersona.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/juan/desa/LibPersona/LibPersona.csproj",
+        "projectName": "LibPersona",
+        "projectPath": "/home/juan/desa/LibPersona/LibPersona.csproj",
+        "packagesPath": "/home/juan/.nuget/packages/",
+        "outputPath": "/home/juan/desa/LibPersona/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/juan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.420/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/juan/desa/LibUtil/LibUtil.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/juan/desa/LibUtil/LibUtil.csproj",
+        "projectName": "LibUtil",
+        "projectPath": "/home/juan/desa/LibUtil/LibUtil.csproj",
+        "packagesPath": "/home/juan/.nuget/packages/",
+        "outputPath": "/home/juan/desa/LibUtil/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/juan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.420/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/juan/desa/TestLib/TestLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/juan/desa/TestLib/TestLib.csproj",
+        "projectName": "TestLib",
+        "projectPath": "/home/juan/desa/TestLib/TestLib.csproj",
+        "packagesPath": "/home/juan/.nuget/packages/",
+        "outputPath": "/home/juan/desa/TestLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/juan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/juan/desa/LibPersona/LibPersona.csproj": {
+                "projectPath": "/home/juan/desa/LibPersona/LibPersona.csproj"
+              },
+              "/home/juan/desa/LibUtil/LibUtil.csproj": {
+                "projectPath": "/home/juan/desa/LibUtil/LibUtil.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.420/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

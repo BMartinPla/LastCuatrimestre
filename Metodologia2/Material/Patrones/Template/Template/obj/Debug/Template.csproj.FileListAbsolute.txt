@@ -1,0 +1,7 @@
+C:\Users\thiag\Documents\PROGRAMACION\_CUARTO-CUATRIMESTRE\METODOLOGIA-SISTEMAS-2\Template\Template\obj\Debug\Template.csproj.AssemblyReference.cache
+C:\Users\thiag\Documents\PROGRAMACION\_CUARTO-CUATRIMESTRE\METODOLOGIA-SISTEMAS-2\Template\Template\obj\Debug\Template.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Documents\PROGRAMACION\_CUARTO-CUATRIMESTRE\METODOLOGIA-SISTEMAS-2\Template\Template\bin\Debug\Template.exe.config
+C:\Users\thiag\Documents\PROGRAMACION\_CUARTO-CUATRIMESTRE\METODOLOGIA-SISTEMAS-2\Template\Template\bin\Debug\Template.exe
+C:\Users\thiag\Documents\PROGRAMACION\_CUARTO-CUATRIMESTRE\METODOLOGIA-SISTEMAS-2\Template\Template\bin\Debug\Template.pdb
+C:\Users\thiag\Documents\PROGRAMACION\_CUARTO-CUATRIMESTRE\METODOLOGIA-SISTEMAS-2\Template\Template\obj\Debug\Template.exe
+C:\Users\thiag\Documents\PROGRAMACION\_CUARTO-CUATRIMESTRE\METODOLOGIA-SISTEMAS-2\Template\Template\obj\Debug\Template.pdb

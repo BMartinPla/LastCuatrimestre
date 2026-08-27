@@ -1,0 +1,14 @@
+/home/juan/desa/CS/Hebras/bin/Debug/net8.0/Hebras
+/home/juan/desa/CS/Hebras/bin/Debug/net8.0/Hebras.deps.json
+/home/juan/desa/CS/Hebras/bin/Debug/net8.0/Hebras.runtimeconfig.json
+/home/juan/desa/CS/Hebras/bin/Debug/net8.0/Hebras.dll
+/home/juan/desa/CS/Hebras/bin/Debug/net8.0/Hebras.pdb
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/Hebras.GeneratedMSBuildEditorConfig.editorconfig
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/Hebras.AssemblyInfoInputs.cache
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/Hebras.AssemblyInfo.cs
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/Hebras.csproj.CoreCompileInputs.cache
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/Hebras.dll
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/refint/Hebras.dll
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/Hebras.pdb
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/Hebras.genruntimeconfig.cache
+/home/juan/desa/CS/Hebras/obj/Debug/net8.0/ref/Hebras.dll

@@ -1,0 +1,21 @@
+﻿using System;
+
+namespace ChocolateBoiler;
+
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        ChocolateBoiler boiler = ChocolateBoiler.Instance;
+        boiler.Fill();
+        boiler.Boil();
+        boiler.Drain();
+
+        // Will return the existing instance
+        ChocolateBoiler boiler2 = ChocolateBoiler.Instance;
+        ChocolateBoiler boiler3 = ChocolateBoiler.Instance;
+        ChocolateBoiler boiler4 = ChocolateBoiler.Instance;
+        ChocolateBoiler boiler5 = ChocolateBoiler.Instance;
+        Console.ReadKey();
+    }
+}

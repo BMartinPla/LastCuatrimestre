@@ -1,0 +1,14 @@
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/StarbuzzCoffe.GeneratedMSBuildEditorConfig.editorconfig
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/StarbuzzCoffe.AssemblyInfoInputs.cache
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/StarbuzzCoffe.AssemblyInfo.cs
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/StarbuzzCoffe.csproj.CoreCompileInputs.cache
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/bin/Debug/net9.0/StarbuzzCoffe
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/bin/Debug/net9.0/StarbuzzCoffe.deps.json
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/bin/Debug/net9.0/StarbuzzCoffe.runtimeconfig.json
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/bin/Debug/net9.0/StarbuzzCoffe.dll
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/bin/Debug/net9.0/StarbuzzCoffe.pdb
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/StarbuzzCoffe.dll
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/refint/StarbuzzCoffe.dll
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/StarbuzzCoffe.pdb
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/StarbuzzCoffe.genruntimeconfig.cache
+/media/juan/PENBLANCO/UTN2026/Metodologia/cs/StarbuzzCoffe/obj/Debug/net9.0/ref/StarbuzzCoffe.dll
