@@ -18,11 +18,18 @@
     border-radius: 15px;
     transition: 0.5s ease;
     margin: 10px auto;
+    user-select: none;
+
 }
 
 .card:hover {
     background-color: red;
     transform: scale(1.1)
+}
+
+.card--selected { 
+    outline: 2px solid blue; 
+    background-color: #8291b9; 
 }
 
 .caja {
