@@ -49,6 +49,11 @@ namespace DecoCafe
             brasilero = new Crema(brasilero);
             Console.WriteLine(separador);
             Console.WriteLine(brasilero.Descripcion + " $" + brasilero.Costo());
+
+            Infusion arabeconmiel = new Arabe();
+            arabeconmiel = new Miel(arabeconmiel);
+            Console.WriteLine(separador);
+            Console.WriteLine(arabeconmiel.Descripcion + " $" +  arabeconmiel.Costo());
         }
     }
 }

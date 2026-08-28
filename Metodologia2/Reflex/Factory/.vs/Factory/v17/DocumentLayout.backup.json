@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\pizzas\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\pizzas\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\pizzeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\pizzeria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\fabrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\pizzas\\jamon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\pizzas\\jamon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\pizzas\\mozzarella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\pizzas\\mozzarella.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\pizzas\\hawaiana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\pizzas\\hawaiana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\pizzas\\fugazzeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\pizzas\\fugazzeta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\lastcuatrimestre\\metodologia2\\reflex\\factory\\factory\\pizzas\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{859F4B38-A3FA-42B5-8C8D-DED6147E507E}|Factory\\Factory.csproj|solutionrelative:factory\\pizzas\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizzeria.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzeria.cs",
+              "RelativeDocumentMoniker": "Factory\\Pizzeria.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzeria.cs",
+              "RelativeToolTip": "Factory\\Pizzeria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:15:24.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Fugazzeta.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Fugazzeta.cs",
+              "RelativeDocumentMoniker": "Factory\\Pizzas\\Fugazzeta.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Fugazzeta.cs",
+              "RelativeToolTip": "Factory\\Pizzas\\Fugazzeta.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:06:27.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hawaiana.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Hawaiana.cs",
+              "RelativeDocumentMoniker": "Factory\\Pizzas\\Hawaiana.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Hawaiana.cs",
+              "RelativeToolTip": "Factory\\Pizzas\\Hawaiana.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:06:04.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Mozzarella.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Mozzarella.cs",
+              "RelativeDocumentMoniker": "Factory\\Pizzas\\Mozzarella.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Mozzarella.cs",
+              "RelativeToolTip": "Factory\\Pizzas\\Mozzarella.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwCYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:05:40.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Jamon.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Jamon.cs",
+              "RelativeDocumentMoniker": "Factory\\Pizzas\\Jamon.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Jamon.cs",
+              "RelativeToolTip": "Factory\\Pizzas\\Jamon.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAcwCYAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:04:53.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fabrica.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Fabrica.cs",
+              "RelativeDocumentMoniker": "Factory\\Fabrica.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Fabrica.cs",
+              "RelativeToolTip": "Factory\\Fabrica.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:04:29.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Pizza.cs",
+              "RelativeDocumentMoniker": "Factory\\Pizzas\\Pizza.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\Pizza.cs",
+              "RelativeToolTip": "Factory\\Pizzas\\Pizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T22:03:14.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IPizza.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\IPizza.cs",
+              "RelativeDocumentMoniker": "Factory\\Pizzas\\IPizza.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Pizzas\\IPizza.cs",
+              "RelativeToolTip": "Factory\\Pizzas\\IPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T21:59:18.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Reflex\\Factory\\Factory\\Program.cs",
+              "RelativeToolTip": "Factory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T21:53:42.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

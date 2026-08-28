@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecoCafe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34a17ffeee068ed3cfe2f0c1f908de512c7defef")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+32082578a64281274a138a4557b4772d4372a5ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecoCafe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecoCafe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
