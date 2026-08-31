@@ -20,9 +20,7 @@ export default function PersonasCard({ persona, onToggle }) {
         <div
             key={persona.ID}
             className={`card ${edadCalculada < 35 ? "text_rojo" : ""} ${isSelected ? "card--selected" : ""}`}
-            onClick={onToggle}           // click en cualquier parte
-            role="checkbox"              // a11y mínimo
-            aria-checked={isSelected}
+            onClick={onToggle}
 
         >
             {/* Ojo: en tu JSON los atributos empiezan con may�scula (Apellido, Nombre) */}
