@@ -1,13 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\maxim\\source\\repos\\IntroEF\\",
+  "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\source\\repos\\introef\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\maxim\\source\\repos\\introef\\introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\entidades\\peliculaactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\peliculaactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\entidades\\pelicula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\dtos\\generocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\dtos\\generocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|c:\\users\\braian.pla\\desktop\\lastcuatrimestre\\prg4\\medina\\2. orm\\introef_cf\\introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8810E3DD-2823-4C11-BA65-5BF42BA49003}|IntroEF\\IntroEF.csproj|solutionrelative:introef\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -18,15 +50,119 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "IntroEF\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\WeatherForecast.cs",
+              "RelativeToolTip": "IntroEF\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T00:07:16.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Utilidades\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "IntroEF\\Utilidades\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T00:05:54.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Actor.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Entidades\\Actor.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Actor.cs",
+              "RelativeToolTip": "IntroEF\\Entidades\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:48:48.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "IntroEF\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "IntroEF\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:20:55.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PeliculaActor.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\PeliculaActor.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Entidades\\PeliculaActor.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\PeliculaActor.cs",
+              "RelativeToolTip": "IntroEF\\Entidades\\PeliculaActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:47:54.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Pelicula.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Pelicula.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Entidades\\Pelicula.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Pelicula.cs",
+              "RelativeToolTip": "IntroEF\\Entidades\\Pelicula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:47:40.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Genero.cs",
+              "RelativeDocumentMoniker": "IntroEF\\Entidades\\Genero.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Entidades\\Genero.cs",
+              "RelativeToolTip": "IntroEF\\Entidades\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:47:35.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GeneroCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\DTOs\\GeneroCreacionDTO.cs",
+              "RelativeDocumentMoniker": "IntroEF\\DTOs\\GeneroCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\DTOs\\GeneroCreacionDTO.cs",
+              "RelativeToolTip": "IntroEF\\DTOs\\GeneroCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-01T23:47:28.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Program.cs",
               "RelativeDocumentMoniker": "IntroEF\\Program.cs",
-              "ToolTip": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\Program.cs",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\Program.cs",
               "RelativeToolTip": "IntroEF\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,16 +171,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\appsettings.Development.json",
               "RelativeDocumentMoniker": "IntroEF\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\maxim\\source\\repos\\IntroEF\\IntroEF\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\appsettings.Development.json",
               "RelativeToolTip": "IntroEF\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAB1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-18T02:45:24.499Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-18T02:45:24.499Z"
             }
           ]
         }
