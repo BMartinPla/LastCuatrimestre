@@ -31,7 +31,7 @@ namespace PizzaMaster
             Console.Clear();
             Console.WriteLine("***********************************************");
             Console.WriteLine("***********************************************");
-            Console.WriteLine($"******** Gran Pizzería {Nombre} ***************");
+            Console.WriteLine($"******** Gran Pizzería {Nombre} **************");
             Console.WriteLine("***********************************************");
             Console.WriteLine("***********************************************");
         }

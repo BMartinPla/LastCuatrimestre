@@ -11,7 +11,7 @@ namespace PizzaMaster
             string PathPizzas = $"{PathRaiz}.Pizzas";
             Assembly assembly = Assembly.GetExecutingAssembly();
             Pizzeria? pizzeria;
-            string[] Sucursales = {"Argentina","Boliviana","Brasilera","Chilena","Paraguaya","Uruguaya"};
+            string[] Sucursales = {"Argentina","Boliviana","Brasilera","Chilena","Paraguaya","Uruguaya", "Peruana"};
 
             while(true)
             {

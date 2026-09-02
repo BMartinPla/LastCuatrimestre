@@ -40,3 +40,18 @@
 /home/juan/desa/cs/Factory3/obj/Debug/net8.0/Factory.pdb
 /home/juan/desa/cs/Factory3/obj/Debug/net8.0/Factory.genruntimeconfig.cache
 /home/juan/desa/cs/Factory3/obj/Debug/net8.0/ref/Factory.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\bin\Debug\net8.0\Factory.exe
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\bin\Debug\net8.0\Factory.deps.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\bin\Debug\net8.0\Factory.runtimeconfig.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\bin\Debug\net8.0\Factory.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\bin\Debug\net8.0\Factory.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\Factory.AssemblyInfoInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\Factory.AssemblyInfo.cs
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\Factory.csproj.CoreCompileInputs.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\Factory.sourcelink.json
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\Factory.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\refint\Factory.dll
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\Factory.pdb
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\Factory.genruntimeconfig.cache
+C:\Users\braian.pla\Desktop\LastCuatrimestre\LastCuatrimestre\Metodologia2\Factory Profe\Factory3\obj\Debug\net8.0\ref\Factory.dll
