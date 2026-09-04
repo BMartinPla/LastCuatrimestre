@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "vPvH9PbFL4I=",
+  "dgSpecHash": "bf2tp8VelhI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\Factory Profe\\Factory3\\Factory.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Shyven\\Desktop\\LastCuatrimestre\\Metodologia2\\Factory Profe\\Factory3\\Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shyven\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.29\\microsoft.netcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Shyven\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.29\\microsoft.windowsdesktop.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Shyven\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.29\\microsoft.aspnetcore.app.ref.8.0.29.nupkg.sha512",
+    "C:\\Users\\Shyven\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.29\\microsoft.netcore.app.host.win-x64.8.0.29.nupkg.sha512"
+  ],
   "logs": []
 }
