@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZIO14QfUG8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\LastCuatrimestre\\Metodologia2\\WebApi\\TestAPI\\TestAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\braian.pla\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.18\\microsoft.aspnetcore.openapi.9.0.18.nupkg.sha512",
+    "C:\\Users\\braian.pla\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
