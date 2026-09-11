@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A47Hh2IG8fo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shyven\\Desktop\\LastCuatrimestre\\Metodologia2\\Material\\TPs\\TPWS\\WebScrapingEjemplo\\WebScrapingEjemplo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shyven\\.nuget\\packages\\htmlagilitypack\\1.13.0\\htmlagilitypack.1.13.0.nupkg.sha512"
+  ],
+  "logs": []
+}
