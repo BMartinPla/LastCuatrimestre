@@ -1,0 +1,36 @@
+{
+  "name": "ganji",
+  "version": "1.0.0",
+  "description": "Survivor-like roguelite 2D ambientado en el Japon feudal. Ronin vs yokai.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "smoke": "node scripts/smoke.mjs",
+    "release:check": "npm run build && node scripts/release-check.mjs",
+    "lint": "eslint src tests",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "game",
+    "phaser",
+    "roguelite",
+    "survivor"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "phaser": "^4.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.39.5",
+    "playwright-core": "^1.62.1",
+    "typescript": "^5.9.3",
+    "typescript-eslint": "^8.50.1",
+    "vite": "^7.3.1",
+    "vitest": "^3.2.4"
+  }
+}
