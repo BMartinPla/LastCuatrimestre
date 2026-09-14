@@ -54,7 +54,8 @@
               "RelativeToolTip": "page\\AltaPersona.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-09-14T21:43:58.442Z"
+              "WhenOpened": "2026-09-14T21:43:58.442Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -66,7 +67,8 @@
               "RelativeToolTip": "src\\index.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-14T21:32:36.397Z"
+              "WhenOpened": "2026-09-14T21:32:36.397Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -78,7 +80,8 @@
               "RelativeToolTip": "src\\App.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-14T21:32:29.521Z"
+              "WhenOpened": "2026-09-14T21:32:29.521Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -102,7 +105,8 @@
               "RelativeToolTip": "components\\PersonasGrid.jsx",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-09-02T23:23:19.515Z"
+              "WhenOpened": "2026-09-02T23:23:19.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -124,7 +128,7 @@
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\2- Personas\\Personas\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-09-02T23:22:07.09Z",
               "EditorCaption": ""
@@ -139,7 +143,8 @@
               "RelativeToolTip": "page\\Personas.jsx",
               "ViewState": "AgIAAA0AAAAAAAAAAAAgwBoAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2026-09-02T23:21:41.361Z"
+              "WhenOpened": "2026-09-02T23:21:41.361Z",
+              "EditorCaption": ""
             }
           ]
         }
