@@ -4467,19 +4467,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\braian.pla\\.nuget\\packages\\": {}
+    "C:\\Users\\maxim\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
+      "projectUniqueName": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
       "projectName": "IntroEF",
-      "projectPath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
-      "packagesPath": "C:\\Users\\braian.pla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Medina\\2. ORM\\IntroEF_CF\\IntroEF\\obj\\",
+      "projectPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\IntroEF.csproj",
+      "packagesPath": "C:\\Users\\maxim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\maxim\\OneDrive\\Documentos\\GitHub\\UTN_ProgramacionIV\\2. ORM\\IntroEF_CF\\IntroEF\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\braian.pla\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\maxim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4487,7 +4492,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -4505,7 +4509,8 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      }
+      },
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -4549,8 +4554,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

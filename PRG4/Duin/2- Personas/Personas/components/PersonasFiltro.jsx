@@ -1,3 +1,5 @@
+import './PersonasFiltro.css';
+
 export default function PersonasFiltro({
     busqueda,
     setBusqueda,
@@ -5,15 +7,15 @@ export default function PersonasFiltro({
     setMostrarSeleccionados
 }) {
     return (
-        <div style={{ marginBottom: '20px' }}>
+        <div className="people-filter">
             <input
                 type="text"
                 placeholder="Buscar por nombre o apellido..."
                 value={busqueda}
                 onChange={(e) => setBusqueda(e.target.value)}
-                style={{ padding: '8px', marginRight: '15px' }}
+                className="search-input"
             />
-            <label style={{ cursor: 'pointer' }}>
+            <label className="selected-filter">
                 <input
                     type="checkbox"
                     checked={mostrarSeleccionados}

@@ -1,0 +1,9 @@
+.person-card { min-width: 0; padding: 20px; color: var(--color-ink); background: white; border: 1px solid var(--color-border); border-radius: var(--radius-md); box-shadow: 0 6px 18px rgba(42,48,85,.06); cursor: pointer; }
+.person-card:hover { border-color: #b7b3ff; box-shadow: 0 12px 25px rgba(42,48,85,.12); transform: translateY(-3px); }
+.person-card--selected { border: 2px solid #20a46b; background: linear-gradient(135deg, #f2fff9, white); }
+.person-card--young .person-card__name { color: #d34d58; }
+.person-card__name { margin: 0 0 12px; line-height: 1.4; }
+.person-card__name strong { color: var(--color-muted); font-size: .78rem; letter-spacing: .05em; text-transform: uppercase; }
+.person-card__meta, .person-card__email { display: inline-block; color: var(--color-muted); font-size: .82rem; line-height: 1.7; }
+.person-card__email { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+@media (prefers-reduced-motion: reduce) { .person-card:hover { transform: none; } }

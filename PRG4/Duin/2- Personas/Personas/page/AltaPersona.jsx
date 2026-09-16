@@ -1,25 +1,26 @@
 import { Link } from 'react-router-dom';
+import './AltaPersona.css';
 
 export default function AltaPersona() {
     return (
-        <div>
+        <div className="alta-page">
             <h2>Dar de Alta Nuevo Usuario</h2>
 
-            <form style={{ display: 'flex', flexDirection: 'column', gap: '15px', maxWidth: '400px', marginBottom: '20px' }}>
-                <input type="text" placeholder="Nombre" style={{ padding: '8px' }} />
-                <input type="text" placeholder="Apellido" style={{ padding: '8px' }} />
-                <input type="email" placeholder="Email" style={{ padding: '8px' }} />
+            <form className="alta-form">
+                <input className="form-input" type="text" placeholder="Nombre" />
+                <input className="form-input" type="text" placeholder="Apellido" />
+                <input className="form-input" type="email" placeholder="Email" />
 
                 <button
                     type="button"
-                    style={{ padding: '10px', backgroundColor: '#28a745', color: 'white', border: 'none', cursor: 'pointer' }}
+                    className="button button--success"
                 >
                     Guardar
                 </button>
             </form>
 
-            {/* El Link actúa como un botón para volver a la ruta principal ("/") */}
-            <Link to="/" style={{ color: 'blue', textDecoration: 'none' }}>
+            {/* El Link actï¿½a como un botï¿½n para volver a la ruta principal ("/") */}
+            <Link to="/" className="back-link">
                 ? Volver al directorio
             </Link>
         </div>

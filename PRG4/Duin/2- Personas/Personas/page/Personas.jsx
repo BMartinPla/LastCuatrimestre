@@ -1,6 +1,7 @@
 import { useState, useEffect } from 'react';
 import PersonasFiltro from '../components/PersonasFiltro';
 import PersonasGrid from '../components/PersonasGrid';
+import './Personas.css';
 
 export default function Personas() {
     const [personas, setPersonas] = useState([]);
@@ -14,13 +15,13 @@ export default function Personas() {
                 const respuesta = await fetch("https://generate-random.org/api/v1/generate/persons?locale=en_US&count=50");
                 const data = await respuesta.json();
 
-                // 1. MIRÁ ESTA LÍNEA: Nos va a mostrar en la consola qué devolvió realmente la API
+                // 1. MIRï¿½ ESTA Lï¿½NEA: Nos va a mostrar en la consola quï¿½ devolviï¿½ realmente la API
                 console.log("Respuesta de la API:", data);
 
-                // 2. Dependiendo de lo que diga la consola, puede que tengamos que cambiar esta línea
+                // 2. Dependiendo de lo que diga la consola, puede que tengamos que cambiar esta lï¿½nea
                 const personasDeApi = data.data;
 
-                console.log("Personas procesadas:", personasDeApi); // Para ver si el array se armó bien
+                console.log("Personas procesadas:", personasDeApi); // Para ver si el array se armï¿½ bien
 
                 const personasConEstado = personasDeApi.map(persona => ({
                     ...persona,
@@ -29,7 +30,7 @@ export default function Personas() {
 
                 setPersonas(personasConEstado);
             } catch (error) {
-                // 3. Si hay un error de conexión o CORS, va a caer acá
+                // 3. Si hay un error de conexiï¿½n o CORS, va a caer acï¿½
                 console.error("Error al traer los datos:", error);
             } finally {
                 setCargando(false);
@@ -42,7 +43,7 @@ export default function Personas() {
     const toggleSeleccion = (ssnId) => {
         setPersonas((prevPersonas) =>
             prevPersonas.map((persona) => {
-                // Usamos el ssn como identificador único porque no hay ID
+                // Usamos el ssn como identificador ï¿½nico porque no hay ID
                 if (persona.ssn === ssnId) {
                     return {
                         ...persona,
@@ -59,7 +60,7 @@ export default function Personas() {
     const personasAMostrar = personas.filter((persona) => {
         const coincideSeleccion = mostrarSeleccionados ? persona.Seleccionado === "s" : true;
 
-        // 2. ADAPTAMOS LA BÚSQUEDA A LAS NUEVAS CLAVES
+        // 2. ADAPTAMOS LA Bï¿½SQUEDA A LAS NUEVAS CLAVES
         const nombreCompleto = `${persona.first_name} ${persona.last_name}`.toLowerCase();
         const coincideBusqueda = nombreCompleto.includes(termino);
 
@@ -67,7 +68,7 @@ export default function Personas() {
     });
 
     return (
-        <div>
+        <div className="directory-page">
             <h2>Directorio de Personas</h2>
 
             <PersonasFiltro

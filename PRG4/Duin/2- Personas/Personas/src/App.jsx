@@ -1,30 +1,33 @@
 // 1. Importamos las herramientas de enrutamiento
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
+import './App.css';
 
-// 2. Importamos nuestras dos páginas
+// 2. Importamos nuestras dos pï¿½ginas
 import Personas from '../page/Personas';
 import AltaPersona from '../page/AltaPersona';
 
 export default function App() {
     return (
-        /* BrowserRouter envuelve TODO lo que necesite navegación */
+        /* BrowserRouter envuelve TODO lo que necesite navegaciï¿½n */
         <BrowserRouter>
-            <div style={{ maxWidth: '1000px', margin: '0 auto', padding: '20px', fontFamily: 'sans-serif' }}>
+            <div className="app-shell">
 
-                <header style={{ borderBottom: '1px solid #ccc', marginBottom: '20px', paddingBottom: '10px', display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
-                    <h1>Directorio de Usuarios</h1>
+                <header className="app-header">
+                    <div>
+                        <h1>Directorio de Usuarios</h1>
+                    </div>
 
-                    {/* 3. BOTÓN DE ALTA: Usamos Link en vez de <button> o <a> */}
+                    {/* 3. BOTï¿½N DE ALTA: Usamos Link en vez de <button> o <a> */}
                     <Link
                         to="/alta"
-                        style={{ padding: '10px 15px', backgroundColor: '#007bff', color: 'white', textDecoration: 'none', borderRadius: '5px', fontWeight: 'bold' }}
+                        className="button button--primary"
                     >
                         + Nuevo Usuario
                     </Link>
                 </header>
 
-                <main>
-                    {/* 4. ROUTES: Acá definimos qué componente se muestra según la URL */}
+                <main className="app-main">
+                    {/* 4. ROUTES: Acï¿½ definimos quï¿½ componente se muestra segï¿½n la URL */}
                     <Routes>
                         <Route path="/" element={<Personas />} />
                         <Route path="/alta" element={<AltaPersona />} />

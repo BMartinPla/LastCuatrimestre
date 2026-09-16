@@ -1,8 +1,9 @@
 import PersonasList from './PersonasList';
+import './PersonasGrid.css';
 
 export default function PersonasGrid({ personas, onToggle }) {
     return (
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '15px' }}>
+        <div className="people-grid">
             {personas.map(persona => (
                 <PersonasList
                     key={persona.ssn}
