@@ -5,6 +5,7 @@ import './App.css';
 // 2. Importamos nuestras dos p�ginas
 import Personas from '../page/Personas';
 import AltaPersona from '../page/AltaPersona';
+import PersonaDetalle from '../page/PersonaDetalle';
 
 export default function App() {
     return (
@@ -31,6 +32,7 @@ export default function App() {
                     <Routes>
                         <Route path="/" element={<Personas />} />
                         <Route path="/alta" element={<AltaPersona />} />
+                        <Route path="/detalle/:ssn" element={<PersonaDetalle />} />
                     </Routes>
                 </main>
 

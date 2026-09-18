@@ -5,5 +5,8 @@
 .person-card__name { margin: 0 0 12px; line-height: 1.4; }
 .person-card__name strong { color: var(--color-muted); font-size: .78rem; letter-spacing: .05em; text-transform: uppercase; }
 .person-card__meta, .person-card__email { display: inline-block; color: var(--color-muted); font-size: .82rem; line-height: 1.7; }
-.person-card__email { max-width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.person-card__footer { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin-top: 4px; }
+.person-card__email { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.person-card__details { flex-shrink: 0; padding: 7px 11px; color: var(--color-primary-dark); background: #f0efff; border: 1px solid #d9d7ff; border-radius: 8px; font-size: .78rem; font-weight: 750; cursor: pointer; }
+.person-card__details:hover { color: white; background: var(--color-primary); border-color: var(--color-primary); }
 @media (prefers-reduced-motion: reduce) { .person-card:hover { transform: none; } }

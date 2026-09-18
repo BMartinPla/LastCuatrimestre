@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import './PersonasList.css';
 
 export default function PersonasList({ persona, onToggle }) {
@@ -12,7 +13,17 @@ export default function PersonasList({ persona, onToggle }) {
             <p className="person-card__name"><strong>Persona:</strong> {persona.last_name}, {persona.first_name}</p>
             <small className="person-card__meta">Edad: {persona.age} - SSN: {persona.ssn}</small>
             <br />
-            <small className="person-card__email">Email: {persona.email}</small>
+            <div className="person-card__footer">
+                <small className="person-card__email">Email: {persona.email}</small>
+                <Link
+                    to={`/detalle/${persona.ssn}`}
+                    state={{ persona }}
+                    className="person-card__details"
+                    onClick={(event) => event.stopPropagation()}
+                >
+                    Detalles
+                </Link>
+            </div>
         </div>
     );
 }

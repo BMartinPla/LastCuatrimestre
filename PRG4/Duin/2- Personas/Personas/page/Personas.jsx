@@ -28,6 +28,7 @@ export default function Personas() {
                     Seleccionado: "n"
                 }));
 
+                sessionStorage.setItem("personas", JSON.stringify(personasConEstado));
                 setPersonas(personasConEstado);
             } catch (error) {
                 // 3. Si hay un error de conexi�n o CORS, va a caer ac�
