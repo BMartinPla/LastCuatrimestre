@@ -2,13 +2,14 @@
 
 ## Objetivo
 
-Implementar el ejercicio 3 de `PRG4/Duin/3- Tareas/prg4_eje3.pdf` como una app independiente React + JSX + Vite en `PRG4/Duin/3- Tareas/Tareas`.
+Implementar el ejercicio 3 de `PRG4/Duin/3- Tareas/prg4_eje3.pdf` como una app independiente React + JSX + Vite directamente en `PRG4/Duin/3- Tareas`.
 
 ## Alcance funcional
 
 - Permitir ingresar una descripción de 3 a 60 caracteres.
 - Mantener deshabilitado el botón de alta hasta alcanzar 3 caracteres; enviar también con Enter.
 - Crear cada tarea con identificador único y `hecho: false`.
+- Representar cada tarea como `{ id, descripcion, hecho }`.
 - Mostrar tareas pendientes y realizadas en dos tablas separadas.
 - Cambiar el estado `hecho` usando un checkbox en cualquiera de las tablas.
 - Incluir en el grupo de realizadas un botón para borrarlas todas.
