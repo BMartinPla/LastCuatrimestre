@@ -49,6 +49,7 @@ function App() {
                   <button type="submit" disabled={!esValido} className="btn-send">Enviar</button>
               </form>
 
+              {/* Sección: Tareas Pendientes */}
               <section className="section">
                   <h3 className="section-title">Tareas Pendientes</h3>
                   <table className="task-table">
@@ -83,50 +84,39 @@ function App() {
                   </table>
               </section>
 
-              {/* Secci�n: Tareas Realizadas */}
+              {/* Sección: Tareas Realizadas */}
               <section className="section">
-                  <div className="section-header">
-                      <h3 className="section-title">Tareas Realizadas</h3>
-                      <button
-                          type="button"
-                          onClick={eliminarRealizadas}
-                          className="btn-eliminar"
-                          disabled={realizadas.length === 0}
-                      >
-                          Eliminar
-                      </button>
-                  </div>
+                <div className="section-header">
+                    <h3 className="section-title">Tareas Realizadas</h3>
+                    <button type="button" onClick={eliminarRealizadas} className="btn-eliminar" disabled={realizadas.length === 0}>Eliminar</button>
+                </div>
 
-                  <table className="task-table">
-                      <thead>
-                          <tr>
-                              <th className="th-desc">Tarea</th>
-                              <th className="th-center">Hecho</th>
-                              <th className="th-center">Id</th>
-                          </tr>
-                      </thead>
-                      <tbody>
-                          {realizadas.length === 0 ? (
-                              <tr>
-                                  <td colSpan="3" className="empty-msg">No hay tareas realizadas</td>
-                              </tr>
-                          ) : (
-                              realizadas.map((tarea) => (
-                                  <tr key={tarea.id}>
-                                      <td>{tarea.descripcion}</td>
-                                      <td className="td-center">
-                                          <input
-                                              type="checkbox"
-                                              checked={tarea.hecho}
-                                              onChange={() => alternarEstado(tarea.id)}
-                                          />
-                                      </td>
-                                      <td className="td-center">{tarea.id}</td>
-                                  </tr>
-                              ))
-                          )}
-                      </tbody>
-                  </table>
+                <table className="task-table">
+                    <thead>
+                        <tr>
+                            <th className="th-desc">Tareas</th>
+                            <th className="th-center">Hecho</th>
+                            <th className="th-center">Id</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {realizadas.length === 0 ? (
+                        <tr>
+                            <td colSpan="3" className="empty-msg">No hay tareas realizadas</td>
+                        </tr>
+                        ) : (
+                            realizadas.map((tarea) => (
+                                <tr key={tarea.id}>
+                                    <td>{tarea.descripcion}</td>
+                                    <td className="td-center">
+                                        <input type="checkbox" checked={tarea.hecho} onChange={() => alternarEstado(tarea.id)}/>
+                                    </td>
+                                    <td className="td-center">{tarea.id}</td>
+                                </tr>
+                            ))
+                        )}
+                    </tbody>
+                </table>
               </section>
 
           </div>
