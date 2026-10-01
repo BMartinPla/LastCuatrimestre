@@ -1,0 +1,14 @@
+Calendario =
+ADDCOLUMNS (
+    CALENDAR ( DATE ( 2015, 1, 1 ), DATE ( 2019, 12, 31 ) ),
+    "Año", YEAR ( [Date] ),
+    "MesN", MONTH ( [Date] ),
+    "Mes", FORMAT ( [Date], "MMMM" ),
+    "MesCorto", FORMAT ( [Date], "MMM" ),
+    "AñoMes", FORMAT ( [Date], "YYYY-MM" ),
+    "Trimestre", "T" & FORMAT ( [Date], "Q" ),
+    "Dia", DAY ( [Date] ),
+    "DiaSemanaN", WEEKDAY ( [Date], 2 ),
+    "DiaSemana", FORMAT ( [Date], "DDDD" ),
+    "SemanaAño", WEEKNUM ( [Date], 2 )
+)
