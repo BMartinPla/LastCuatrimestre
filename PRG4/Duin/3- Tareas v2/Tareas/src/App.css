@@ -1,10 +1,129 @@
-body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background-color: #f7f9fa;
-    color: #333;
+/* --- Reset y Estilos Globales --- */
+* {
+    box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    background-color: #f7f9fa;
+    color: #333333;
+}
+
+/* --- Barra de Navegación (Navbar) --- */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 32px;
+    background-color: #1e293b;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-brand {
+    font-weight: 700;
+    font-size: 18px;
+    color: #ffffff;
+}
+
+.nav-links {
+    display: flex;
+    gap: 12px;
+}
+
+    .nav-links a {
+        text-decoration: none;
+        font-size: 15px;
+        padding: 8px 16px;
+        border-radius: 6px;
+        transition: all 0.2s ease;
+    }
+
+/* Estados de NavLink */
+.link-inactivo {
+    color: #94a3b8;
+}
+
+    .link-inactivo:hover {
+        color: #ffffff;
+        background-color: rgba(255, 255, 255, 0.05);
+    }
+
+.link-activo {
+    color: #ffffff;
+    background-color: #2563eb;
+    font-weight: 600;
+}
+
+/* En caso de usar la clase default de React Router */
+.nav-links a.active {
+    color: #ffffff;
+    background-color: #2563eb;
+    font-weight: 600;
+}
+
+/* --- Pantalla Home --- */
+.home-container {
+    max-width: 600px;
+    margin: 60px auto;
+    text-align: center;
+    background: #ffffff;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+}
+
+    .home-container h1 {
+        margin-top: 0;
+        font-size: 26px;
+        color: #111827;
+    }
+
+    .home-container p {
+        color: #64748b;
+        margin-bottom: 24px;
+    }
+
+.home-actions {
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    flex-wrap: wrap;
+}
+
+.btn-primary {
+    background-color: #2563eb;
+    color: #ffffff;
+    padding: 10px 22px;
+    border-radius: 6px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 500;
+    display: inline-block;
+    transition: background-color 0.2s;
+}
+
+    .btn-primary:hover {
+        background-color: #1d4ed8;
+    }
+
+.btn-secondary {
+    background-color: #e2e8f0;
+    color: #1e293b;
+    padding: 10px 22px;
+    border: none;
+    border-radius: 6px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+    .btn-secondary:hover {
+        background-color: #cbd5e1;
+    }
+
+/* --- Contenedor Principal (Tareas / Estadísticas) --- */
 .container {
     max-width: 650px;
     margin: 40px auto;
@@ -14,7 +133,21 @@ body {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
 }
 
-/* Input y botón superior */
+.link-volver {
+    text-decoration: none;
+    color: #2563eb;
+    font-size: 14px;
+    font-weight: 500;
+    display: inline-block;
+    transition: color 0.2s;
+}
+
+    .link-volver:hover {
+        color: #1d4ed8;
+        text-decoration: underline;
+    }
+
+/* --- Formulario de Ingreso de Tarea --- */
 .input-group {
     display: flex;
     gap: 12px;
@@ -28,6 +161,7 @@ body {
         border: 1px solid #dcdcdc;
         border-radius: 6px;
         outline: none;
+        transition: border-color 0.2s;
     }
 
         .input-group input:focus {
@@ -39,21 +173,26 @@ body {
     color: white;
     border: none;
     border-radius: 6px;
-    padding: 0 18px;
-    font-size: 16px;
+    padding: 0 20px;
+    font-size: 15px;
+    font-weight: 500;
     cursor: pointer;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: opacity 0.2s;
+    transition: opacity 0.2s, background-color 0.2s;
 }
+
+    .btn-send:hover:not(:disabled) {
+        background-color: #2563eb;
+    }
 
     .btn-send:disabled {
         opacity: 0.4;
         cursor: not-allowed;
     }
 
-/* Secciones y Encabezados */
+/* --- Secciones y Encabezados --- */
 .section {
     margin-bottom: 35px;
 }
@@ -69,10 +208,10 @@ body {
     margin: 0;
     font-size: 16px;
     font-weight: 600;
-    color: #111;
+    color: #111111;
 }
 
-/* Botón Eliminar */
+/* Botón Eliminar Realizadas */
 .btn-eliminar {
     background-color: #2563eb;
     color: white;
@@ -81,15 +220,19 @@ body {
     padding: 6px 16px;
     font-size: 14px;
     cursor: pointer;
-    transition: background-color 0.2s;
+    transition: background-color 0.2s, opacity 0.2s;
 }
+
+    .btn-eliminar:hover:not(:disabled) {
+        background-color: #1d4ed8;
+    }
 
     .btn-eliminar:disabled {
         opacity: 0.5;
         cursor: not-allowed;
     }
 
-/* Tablas */
+/* --- Tablas --- */
 .task-table {
     width: 100%;
     border-collapse: collapse;
@@ -100,14 +243,14 @@ body {
         padding: 8px 12px;
         font-size: 14px;
         font-weight: 700;
-        color: #111;
+        color: #111111;
         border-bottom: 1px solid #eaeaea;
     }
 
     .task-table td {
         padding: 10px 12px;
         font-size: 14px;
-        color: #333;
+        color: #333333;
     }
 
 .th-desc {
@@ -123,8 +266,8 @@ body {
 
 .empty-msg {
     text-align: center;
-    color: #888;
-    padding: 16px !important;
+    color: #888888;
+    padding: 18px !important;
     font-style: italic;
 }
 

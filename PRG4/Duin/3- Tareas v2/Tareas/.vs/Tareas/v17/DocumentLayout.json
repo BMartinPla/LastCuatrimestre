@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\pages\\Tareas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Tareas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\pages\\Estadisticas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\pages\\Estadisticas.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\components\\Contenedor.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Contenedor.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.css",
-              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\index.css",
-              "RelativeDocumentMoniker": "src\\index.css",
-              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\index.css",
-              "RelativeToolTip": "src\\index.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-28T22:17:58.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "App.css",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\App.css",
               "RelativeDocumentMoniker": "src\\App.css",
               "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\App.css",
               "RelativeToolTip": "src\\App.css",
-              "ViewState": "AgIAADgAAAAAAAAAAAAYwIcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAQwBYBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-09-28T22:17:28.066Z",
+              "WhenOpened": "2026-10-02T00:14:11.73Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
+              "Title": "Contenedor.jsx",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\components\\Contenedor.jsx",
+              "RelativeDocumentMoniker": "src\\components\\Contenedor.jsx",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\components\\Contenedor.jsx",
+              "RelativeToolTip": "src\\components\\Contenedor.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-02T00:08:23.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estadisticas.jsx",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\pages\\Estadisticas.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Estadisticas.jsx",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\pages\\Estadisticas.jsx",
+              "RelativeToolTip": "src\\pages\\Estadisticas.jsx",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwHEAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-01T23:40:41.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tareas.jsx",
+              "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\pages\\Tareas.jsx",
+              "RelativeDocumentMoniker": "src\\pages\\Tareas.jsx",
+              "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\pages\\Tareas.jsx",
+              "RelativeToolTip": "src\\pages\\Tareas.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-10-01T23:24:43.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.jsx",
               "DocumentMoniker": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\App.jsx",
               "RelativeDocumentMoniker": "src\\App.jsx",
               "ToolTip": "C:\\Users\\braian.pla\\Desktop\\LastCuatrimestre\\PRG4\\Duin\\3- Tareas v2\\Tareas\\src\\App.jsx",
               "RelativeToolTip": "src\\App.jsx",
-              "ViewState": "AgIAACMAAAAAAAAAAAAQwAYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
               "WhenOpened": "2026-09-28T21:38:33.513Z",
               "EditorCaption": ""
