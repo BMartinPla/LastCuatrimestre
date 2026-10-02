@@ -1,0 +1,2 @@
+fastapi[standard]>=0.115
+SQLAlchemy>=2.0

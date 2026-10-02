@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+.venv/
+.vercel/
+
+# db/Facultad.db NO se ignora: Vercel no puede crearla, tiene que subirse ya cargada.
+
+# Generado con sqlacodegen
+models.py
+
+# Ejecutable de SQLite (solo sirve en Windows)
+sqlite3.exe

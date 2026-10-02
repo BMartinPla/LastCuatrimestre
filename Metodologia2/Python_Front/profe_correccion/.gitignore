@@ -1,0 +1,12 @@
+__pycache__/
+venv/
+.venv/
+
+# Bases generadas con sqlite3 (el esquema está en db/Carrera.sql)
+db/*.db
+
+# Generado con sqlacodegen en el paso opcional del HowTo
+models.py
+
+# Ejecutable de SQLite que viene con el zip
+sqlite3.exe

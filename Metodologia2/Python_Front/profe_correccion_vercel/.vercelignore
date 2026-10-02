@@ -1,0 +1,6 @@
+# Lo que no tiene que subirse a Vercel (la base db/Facultad.db sí se sube).
+venv/
+.venv/
+__pycache__/
+sqlite3.exe
+models.py

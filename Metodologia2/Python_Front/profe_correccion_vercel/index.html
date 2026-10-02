@@ -1,0 +1,237 @@
+<!doctype html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Mapa de Carrera</title>
+  <meta name="description" content="Plan de estudio, materias y avance de la carrera, en vivo desde la API de FastAPI.">
+  <meta name="theme-color" content="#06070c">
+  <link rel="icon" href="static/favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400..800&family=JetBrains+Mono:wght@400;500;600;700&display=swap">
+  <link rel="stylesheet" href="static/styles.css">
+  <script>
+    // Tema y marca "js" antes de pintar, para que no parpadee.
+    (function () {
+      var raiz = document.documentElement;
+      var tema = null;
+      try { tema = JSON.parse(localStorage.getItem("mapa.tema")); } catch (e) {}
+      if (tema !== "light" && tema !== "dark") {
+        tema = window.matchMedia("(prefers-color-scheme: light)").matches ? "light" : "dark";
+      }
+      raiz.setAttribute("data-theme", tema);
+      raiz.classList.add("js");
+    })();
+  </script>
+</head>
+<body class="cargando">
+  <div class="bg" aria-hidden="true">
+    <div class="blob b1"></div>
+    <div class="blob b2"></div>
+    <div class="blob b3"></div>
+    <div class="grid"></div>
+    <div class="noise"></div>
+  </div>
+
+  <a class="skip" href="#plan">Saltar al plan de estudio</a>
+
+  <header class="nav">
+    <div class="wrap nav-in">
+      <a class="brand" href="#inicio" aria-label="Mapa de Carrera, inicio">
+        <svg class="brand-mark" width="34" height="34" viewBox="0 0 32 32" aria-hidden="true">
+          <defs>
+            <linearGradient id="marca" x1="0" y1="0" x2="1" y2="1">
+              <stop offset="0" stop-color="#a597ff"/>
+              <stop offset=".55" stop-color="#6ad6f0"/>
+              <stop offset="1" stop-color="#f08fc8"/>
+            </linearGradient>
+          </defs>
+          <rect width="32" height="32" rx="9" fill="url(#marca)"/>
+          <path d="M8 11h16M10 11v11M22 11v11" stroke="#0c0820" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+          <circle cx="16" cy="11" r="3" fill="#0c0820"/>
+          <circle cx="10" cy="22" r="2.6" fill="#0c0820"/>
+          <circle cx="22" cy="22" r="2.6" fill="#0c0820"/>
+        </svg>
+        <span class="brand-text">
+          <strong>Mapa de Carrera</strong>
+          <small id="marca-sub">Conectando con la API…</small>
+        </span>
+      </a>
+      <nav class="nav-links" aria-label="Secciones">
+        <a href="#plan">Plan</a>
+        <a href="#progreso">Mi progreso</a>
+        <a href="#datos">Datos</a>
+        <a href="#api">API</a>
+      </nav>
+      <div class="nav-actions">
+        <button class="search-btn" id="btn-buscar" type="button" aria-label="Buscar materias, secciones y endpoints (Ctrl+K)">
+          <svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <span>Buscar…</span>
+          <kbd>Ctrl K</kbd>
+        </button>
+        <button class="icon-btn" id="btn-tema" type="button" aria-label="Cambiar tema"></button>
+        <span class="status" id="estado-api" role="status"><i class="status-dot"></i><span>Conectando…</span></span>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="setup" id="setup" aria-live="polite"></section>
+
+    <section class="hero requiere-datos" id="inicio">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <p class="eyebrow" data-reveal><span class="pulse-dot"></span>En vivo desde FastAPI y SQLite</p>
+          <h1 id="hero-titulo" data-reveal>Tu carrera, <span class="grad">en un mapa</span></h1>
+          <div class="hero-sub" id="hero-sub" data-reveal></div>
+          <p class="hero-lead" data-reveal>Recorré el plan de estudio período por período, mirá cada materia en detalle y llevá la cuenta de tu avance. Cada dato sale en vivo de la API.</p>
+          <div class="hero-cta" data-reveal>
+            <a class="btn btn-primary" href="#plan">Explorar el plan
+              <svg class="ico" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6"/></svg>
+            </a>
+            <a class="btn btn-ghost" href="#api">Probar la API</a>
+          </div>
+          <div class="kpis" id="kpis" data-reveal></div>
+        </div>
+        <figure class="hero-viz glass" data-reveal>
+          <figcaption class="viz-cap"><span id="mapa-titulo">Mapa del plan</span><small id="mapa-sub"></small></figcaption>
+          <svg id="mapa" role="group" aria-labelledby="mapa-titulo"></svg>
+          <div class="viz-legend" id="mapa-leyenda"></div>
+        </figure>
+      </div>
+    </section>
+
+    <section class="section requiere-datos" id="plan">
+      <div class="wrap">
+        <header class="section-head" data-reveal>
+          <p class="kicker">01 · Plan de estudio</p>
+          <h2>Todas las materias, período por período</h2>
+          <p class="section-lead" id="plan-lead">Hacé clic en una materia para abrir su ficha. Los encabezados de cada período consultan su endpoint en el explorador.</p>
+        </header>
+        <div class="toolbar" data-reveal>
+          <div class="chips" id="filtro-areas" role="group" aria-label="Filtrar por área académica"></div>
+          <label class="search-field">
+            <svg class="ico" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+            <span class="sr-only">Filtrar materias por nombre</span>
+            <input id="filtro-texto" type="search" placeholder="Filtrar materias…" autocomplete="off">
+          </label>
+          <div class="toggles">
+            <label class="switch" id="switch-todas"><input type="checkbox" id="ver-todas"><span class="switch-ui"></span>Todas las correlatividades</label>
+            <label class="switch"><input type="checkbox" id="modo-progreso"><span class="switch-ui"></span>Modo progreso</label>
+          </div>
+        </div>
+        <div class="edge-legend" id="leyenda-plan" data-reveal></div>
+        <div class="board-scroll" data-reveal>
+          <div class="board" id="tablero"></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section requiere-datos" id="progreso">
+      <div class="wrap">
+        <header class="section-head" data-reveal>
+          <p class="kicker">02 · Mi progreso</p>
+          <h2>Llevá la cuenta de tu avance</h2>
+          <p class="section-lead">Marcá cada materia como cursada o aprobada desde su ficha, o activá el modo progreso y hacé clic en las materias del plan. Se guarda solo en este navegador.</p>
+        </header>
+        <div class="progress-grid">
+          <div class="glass spot prog-summary" data-reveal>
+            <div class="prog-hero">
+              <span class="prog-pct" id="prog-pct">0%</span>
+              <span class="prog-label">de la carrera aprobada</span>
+            </div>
+            <div class="meter" id="prog-meter" role="img"></div>
+            <ul class="meter-legend" id="prog-leyenda"></ul>
+            <div class="prog-actions">
+              <button class="btn btn-ghost btn-sm" id="btn-modo-progreso" type="button">Activar modo progreso</button>
+              <button class="btn btn-ghost btn-sm" id="btn-reiniciar" type="button">Reiniciar</button>
+            </div>
+          </div>
+          <div class="glass spot prog-col" data-reveal>
+            <h3>Podés cursar <span class="badge" id="n-cursar"></span></h3>
+            <p class="small muted" id="nota-cursar"></p>
+            <div class="pill-list" id="lista-cursar"></div>
+          </div>
+          <div class="glass spot prog-col" data-reveal>
+            <h3>Podés rendir <span class="badge" id="n-rendir"></span></h3>
+            <p class="small muted">Las que ya cursaste y te falta aprobar.</p>
+            <div class="pill-list" id="lista-rendir"></div>
+          </div>
+          <div class="glass spot prog-col" data-reveal>
+            <h3>Todavía no <span class="badge" id="n-bloqueadas"></span></h3>
+            <p class="small muted">Les falta alguna correlativa.</p>
+            <div class="pill-list" id="lista-bloqueadas"></div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section requiere-datos" id="datos">
+      <div class="wrap">
+        <header class="section-head" data-reveal>
+          <p class="kicker">03 · Datos</p>
+          <h2>El plan en números</h2>
+          <p class="section-lead">Cada tarjeta indica de qué endpoint salen sus datos. Tocalo para probarlo en el explorador.</p>
+        </header>
+        <div class="bento" id="bento"></div>
+      </div>
+    </section>
+
+    <section class="section requiere-datos" id="api">
+      <div class="wrap">
+        <header class="section-head" data-reveal>
+          <p class="kicker">04 · API</p>
+          <h2>Explorador de servicios</h2>
+          <p class="section-lead">Los endpoints se leen de <code>/openapi.json</code>, así que siempre están al día con <code>main.py</code>. Elegí uno, completá los parámetros y mandá la consulta.</p>
+        </header>
+        <div class="explorer glass" id="explorador" data-reveal>
+          <aside class="ex-list">
+            <label class="search-field ex-buscar">
+              <svg class="ico" width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+              <span class="sr-only">Filtrar endpoints</span>
+              <input id="ex-filtro" type="search" placeholder="Filtrar endpoints…" autocomplete="off">
+            </label>
+            <nav class="ex-endpoints" id="ex-endpoints" aria-label="Endpoints"></nav>
+            <div class="ex-historial" id="ex-historial" hidden></div>
+          </aside>
+          <div class="ex-main" id="ex-main"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="wrap footer-in">
+      <p><strong>Mapa de Carrera</strong>: front sin dependencias para la API de <code>main.py</code>.</p>
+      <nav class="footer-links" aria-label="Documentación de la API">
+        <a class="btn btn-ghost btn-sm" data-api="/docs" target="_blank" rel="noopener">Swagger /docs</a>
+        <a class="btn btn-ghost btn-sm" data-api="/redoc" target="_blank" rel="noopener">ReDoc</a>
+        <a class="btn btn-ghost btn-sm" data-api="/openapi.json" target="_blank" rel="noopener">openapi.json</a>
+      </nav>
+      <p class="muted" id="pie-detalle">FastAPI + SQLAlchemy + SQLite. El progreso se guarda solo en este navegador.</p>
+    </div>
+  </footer>
+
+  <div class="velo" id="velo"></div>
+  <aside class="ficha" id="ficha" role="dialog" aria-modal="true" aria-labelledby="ficha-titulo" aria-hidden="true" inert></aside>
+
+  <div class="paleta" id="paleta" aria-hidden="true" inert>
+    <div class="paleta-box" role="dialog" aria-modal="true" aria-label="Buscar">
+      <div class="paleta-input">
+        <svg class="ico" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+        <input id="paleta-texto" type="text" placeholder="Buscá una materia, una sección o un endpoint…" autocomplete="off" role="combobox" aria-expanded="true" aria-controls="paleta-lista" aria-autocomplete="list">
+        <kbd>Esc</kbd>
+      </div>
+      <div class="paleta-lista" id="paleta-lista" role="listbox" aria-label="Resultados"></div>
+      <div class="paleta-pie"><span><kbd>↑</kbd><kbd>↓</kbd> moverse</span><span><kbd>Enter</kbd> abrir</span><span><kbd>Esc</kbd> cerrar</span></div>
+    </div>
+  </div>
+
+  <div class="tip" id="tip" role="tooltip" hidden></div>
+  <div class="toasts" id="toasts" aria-live="polite"></div>
+  <canvas class="confeti" id="confeti" aria-hidden="true"></canvas>
+
+  <script src="static/app.js"></script>
+</body>
+</html>
