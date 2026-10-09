@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 export function Gastos({ gastos, setGastos, nextId, setNextId }) {
   const [nombre, setNombre] = useState('');
@@ -86,6 +87,14 @@ export function Gastos({ gastos, setGastos, nextId, setNextId }) {
                 <td>${g.importe.toFixed(2)}</td>
                 <td>{g.rubro}</td>
                 <td style={{ textAlign: 'center' }}>
+                  <Link 
+                    to={`/modificar/${g.id}`} 
+                    className="btn-borrar-item" 
+                    title="Modificar gasto"
+                    style={{ textDecoration: 'none', marginRight: '8px' }}
+                  >
+                    /
+                  </Link>
                   <button
                     type="button"
                     onClick={() => handleBorrar(g.id)}

@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { BrowserRouter, Routes, Route, NavLink } from 'react-router-dom';
 import { Gastos } from './pages/Gastos';
 import { Resumen } from './pages/Resumen';
+import { ModificarGasto } from './pages/ModificarGasto';
 import './App.css';
 
 function App() {
@@ -26,7 +27,18 @@ function App() {
         <Routes>
           <Route
             path="/"
-            element={<Gastos gastos={gastos} setGastos={setGastos} />}
+            element={
+              <Gastos
+                gastos={gastos}
+                setGastos={setGastos}
+                nextId={nextId}
+                setNextId={setNextId}
+              />
+            }
+          />
+          <Route 
+            path="/modificar/:id" 
+            element={<ModificarGasto gastos={gastos} setGastos={setGastos} />} 
           />
           <Route path="/resumen" element={<Resumen gastos={gastos} />} />
           <Route path="*" element={<h2>404 - Página no encontrada</h2>} />
