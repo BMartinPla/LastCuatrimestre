@@ -1,0 +1,31 @@
+Problema precios a fechas
+-> Se elimino el cambio de tipo de dato automático
+-> Se cambio el tipo de dato de la columna price a texto
+-> Se reemplazaron valores "/mes/" a ",0mes/", se reemplazo "/2022" por nada, y "/", "." por ","
+
+Columna owners con texto de rangos (no se puede sumar ni promediar)
+-> Se duplico columna owners (la original se puede utilizar como categoría)
+-> Se dividio la columna duplicada por delimitador (-)
+-> Se renombraron a owners-min y owners-max
+
+Cambios generales
+-> Se cambio el tipo de dato de la columna release_date de texto a fecha
+-> Se reemplazaron nulos en developer / publisher de null a "Sin especificar"
+-> Se creo una columna condicional en base a la columna "english" reemplazando los valores booleanos por texto (1 = "Ingles", 0 = "Otros idiomas") y se renombro a "idiomas"
+-> Se creo una columna condicional en base a la columna "required_age" reemplazando los valores para que sean legibles en el dashboard (ATP o +18)
+
+Modelado
+-> Se duplico Juegos en steam y se renombro a Base_Steam (tabla de modelo base)
+-> Se duplico Base_Steam a Fact_Juegos_Steam (tabla de hechos)
+-> Se referencio a Dim_Juegos (se creo columna condicional 0,0 = Free to Play : Pago)
+-> Se referencio a Dim_Rango_Owners (solo para medir rangos y ordenar)
+-> Se referencio a Dim_Plataforma (se dividio por delimitador en filas y se puso primera letra en mayusculas)
+-> Se referencio a Dim_Genero (se dividio por delimitador en filas)
+-> Se referencio a Dim_Categoria (se dividio por delimitador en filas)
+-> Se referencio a Dim_Tag (se dividio por delimitador en filas)
+-> Se referencio a Dim_Developer (se cambio a tipo texto por un error y se dividio por delimitador en filas)
+-> Se referencio a Dim_Publisher (se cambio a tipo texto por un error y se dividio por delimitador en filas)
+-> Se creo Dim_Calendario
+
+Medidas
+-> Se creo Total Juegos (DISTINCTCOUNT)
